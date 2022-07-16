@@ -1,0 +1,10 @@
+large0.txt solved with convexhull&OROPT has the cost: 401.7398690099149
+large1.txt solved with convexhull&OROPT has the cost: 386.35383620644313
+large2.txt solved with convexhull&OROPT has the cost: 390.0578481905571
+large3.txt solved with convexhull&OROPT has the cost: 384.32645717664343
+large4.txt solved with convexhull&OROPT has the cost: 386.0700595211315
+large5.txt solved with convexhull&OROPT has the cost: 400.5862764152233
+large6.txt solved with convexhull&OROPT has the cost: 390.22702236783323
+large7.txt solved with convexhull&OROPT has the cost: 381.69714917613993
+large8.txt solved with convexhull&OROPT has the cost: 389.8069561397836
+large9.txt solved with convexhull&OROPT has the cost: 385.7942916747632

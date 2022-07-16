@@ -1,0 +1,11 @@
+medium0.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 196.927, max 206.208, and average 200.059 
+ medium1.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 201.865, max 204.027, and average 203.005 
+ medium2.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 196.652, max 202.553, and average 198.718 
+ medium3.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 198.516, max 206.419, and average 201.671 
+ medium4.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 210.3, max 225.869, and average 218.406 
+ medium5.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 188.575, max 198.982, and average 194.888 
+ medium6.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 208.759, max 216.12, and average 211.934 
+ medium7.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 194.016, max 201.041, and average 197.089 
+ medium8.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 198.882, max 204.86, and average 202.865 
+ medium9.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 192.259, max 206.337, and average 198.675 
+ 

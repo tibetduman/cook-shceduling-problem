@@ -1,0 +1,14 @@
+large0.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 373.522, max 377.847, and average 375.731 
+ large1.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 372.724, max 382.247, and average 377.169 
+ large2.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 381.311, max 396.018, and average 387.932 
+ large0.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 371.065, max 371.065, and average 371.065 
+ large1.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 378.992, max 378.992, and average 378.992 
+ large2.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 364.937, max 364.937, and average 364.937 
+ large3.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 363.429, max 363.429, and average 363.429 
+ large4.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 371.831, max 371.831, and average 371.831 
+ large5.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 391.96, max 391.96, and average 391.96 
+ large6.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 390.969, max 390.969, and average 390.969 
+ large7.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 389.714, max 389.714, and average 389.714 
+ large8.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 387.66, max 387.66, and average 387.66 
+ large9.txt solved with mbo immediate calculation multiple step sharing mixed has the cost of min 372.078, max 372.078, and average 372.078 
+ 

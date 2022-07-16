@@ -1,0 +1,11 @@
+large0.txt solved with simulated annealing insertion has the cost of min 365.497, max 365.497, and average 365.497 
+ large1.txt solved with simulated annealing insertion has the cost of min 358.15, max 358.15, and average 358.15 
+ large2.txt solved with simulated annealing insertion has the cost of min 360.566, max 360.566, and average 360.566 
+ large3.txt solved with simulated annealing insertion has the cost of min 350.312, max 350.312, and average 350.312 
+ large4.txt solved with simulated annealing insertion has the cost of min 358.492, max 358.492, and average 358.492 
+ large5.txt solved with simulated annealing insertion has the cost of min 375.987, max 375.987, and average 375.987 
+ large6.txt solved with simulated annealing insertion has the cost of min 378.492, max 378.492, and average 378.492 
+ large7.txt solved with simulated annealing insertion has the cost of min 364.286, max 364.286, and average 364.286 
+ large8.txt solved with simulated annealing insertion has the cost of min 371.209, max 371.209, and average 371.209 
+ large9.txt solved with simulated annealing insertion has the cost of min 367.684, max 367.684, and average 367.684 
+ 

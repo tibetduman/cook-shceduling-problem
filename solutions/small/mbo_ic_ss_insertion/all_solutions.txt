@@ -1,0 +1,11 @@
+small0.txt solved with mbo immediate calculation single step sharing insertion has the cost of min 83.45, max 85.775, and average 84.22 
+ small1.txt solved with mbo immediate calculation single step sharing insertion has the cost of min 79.343, max 88.976, and average 81.676 
+ small2.txt solved with mbo immediate calculation single step sharing insertion has the cost of min 81.257, max 88.694, and average 84.316 
+ small3.txt solved with mbo immediate calculation single step sharing insertion has the cost of min 83.364, max 85.958, and average 84.203 
+ small4.txt solved with mbo immediate calculation single step sharing insertion has the cost of min 77.466, max 80.829, and average 78.886 
+ small5.txt solved with mbo immediate calculation single step sharing insertion has the cost of min 81.995, max 92.233, and average 83.689 
+ small6.txt solved with mbo immediate calculation single step sharing insertion has the cost of min 80.653, max 83.639, and average 82.17 
+ small7.txt solved with mbo immediate calculation single step sharing insertion has the cost of min 75.193, max 82.325, and average 76.032 
+ small8.txt solved with mbo immediate calculation single step sharing insertion has the cost of min 82.947, max 87.526, and average 84.275 
+ small9.txt solved with mbo immediate calculation single step sharing insertion has the cost of min 86.049, max 88.633, and average 86.977 
+ 

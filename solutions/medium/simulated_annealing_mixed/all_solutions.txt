@@ -1,0 +1,11 @@
+medium0.txt solved with simulated annealing mixed has the cost of min 193.548, max 198.274, and average 196.384 
+ medium1.txt solved with simulated annealing mixed has the cost of min 197.41, max 201.732, and average 199.046 
+ medium2.txt solved with simulated annealing mixed has the cost of min 191.316, max 202.491, and average 196.127 
+ medium3.txt solved with simulated annealing mixed has the cost of min 195.02, max 206.417, and average 201.975 
+ medium4.txt solved with simulated annealing mixed has the cost of min 194.606, max 220.26, and average 206.748 
+ medium5.txt solved with simulated annealing mixed has the cost of min 187.228, max 197.864, and average 193.052 
+ medium6.txt solved with simulated annealing mixed has the cost of min 208.841, max 221.129, and average 212.524 
+ medium7.txt solved with simulated annealing mixed has the cost of min 192.832, max 196.631, and average 195.051 
+ medium8.txt solved with simulated annealing mixed has the cost of min 191.973, max 199.619, and average 194.537 
+ medium9.txt solved with simulated annealing mixed has the cost of min 189.376, max 196.652, and average 193.139 
+ 

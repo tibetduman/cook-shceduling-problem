@@ -1,0 +1,11 @@
+medium0.txt solved with simulated annealing has the cost of min 203.94503600329804, max 222.70637979144968, and average 214.77872516901388 
+ medium1.txt solved with simulated annealing has the cost of min 199.56595164609251, max 224.49649779160075, and average 212.9288923027832 
+ medium2.txt solved with simulated annealing has the cost of min 197.34836374600715, max 213.74741621966214, and average 204.17177415680052 
+ medium3.txt solved with simulated annealing has the cost of min 193.36656265582667, max 224.49950757211965, and average 209.95895465483835 
+ medium4.txt solved with simulated annealing has the cost of min 214.6346670009215, max 231.19652028130199, and average 220.7980375365803 
+ medium5.txt solved with simulated annealing has the cost of min 193.30903299278643, max 233.83164594627863, and average 207.8238594650104 
+ medium6.txt solved with simulated annealing has the cost of min 214.23281895190132, max 229.9289712134597, and average 220.95268986868086 
+ medium7.txt solved with simulated annealing has the cost of min 196.6205753160717, max 210.78145934881226, and average 203.1183273271953 
+ medium8.txt solved with simulated annealing has the cost of min 207.18912480451905, max 228.99105766741215, and average 219.11200215782097 
+ medium9.txt solved with simulated annealing has the cost of min 200.3612947052502, max 222.47548990266586, and average 208.8540513131813 
+ 

@@ -1,0 +1,10 @@
+large0.txt solved with nearest neighbor has the cost: 415.9064340612398
+large1.txt solved with nearest neighbor has the cost: 405.6472982539857
+large2.txt solved with nearest neighbor has the cost: 450.85572484504075
+large3.txt solved with nearest neighbor has the cost: 407.66284875716605
+large4.txt solved with nearest neighbor has the cost: 420.4991315412689
+large5.txt solved with nearest neighbor has the cost: 420.1325352501999
+large6.txt solved with nearest neighbor has the cost: 438.1739189447941
+large7.txt solved with nearest neighbor has the cost: 465.1464588098662
+large8.txt solved with nearest neighbor has the cost: 418.9846684086357
+large9.txt solved with nearest neighbor has the cost: 469.49653138864346

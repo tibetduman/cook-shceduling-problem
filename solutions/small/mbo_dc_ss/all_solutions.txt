@@ -1,0 +1,11 @@
+small0.txt solved with mbo delayed calculation single step sharing has the cost of min 83.45, max 86.666, and average 84.423 
+ small1.txt solved with mbo delayed calculation single step sharing has the cost of min 79.343, max 85.313, and average 81.887 
+ small2.txt solved with mbo delayed calculation single step sharing has the cost of min 81.257, max 88.468, and average 84.179 
+ small3.txt solved with mbo delayed calculation single step sharing has the cost of min 83.804, max 86.35, and average 85.011 
+ small4.txt solved with mbo delayed calculation single step sharing has the cost of min 77.91, max 80.069, and average 78.984 
+ small5.txt solved with mbo delayed calculation single step sharing has the cost of min 81.995, max 83.774, and average 82.925 
+ small6.txt solved with mbo delayed calculation single step sharing has the cost of min 80.871, max 83.441, and average 82.261 
+ small7.txt solved with mbo delayed calculation single step sharing has the cost of min 75.193, max 82.397, and average 77.227 
+ small8.txt solved with mbo delayed calculation single step sharing has the cost of min 82.982, max 85.17, and average 84.269 
+ small9.txt solved with mbo delayed calculation single step sharing has the cost of min 86.049, max 87.132, and average 86.639 
+ 

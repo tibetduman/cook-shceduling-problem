@@ -1,0 +1,11 @@
+small0.txt solved with simulated annealing more iterations has the cost of min 83.761, max 94.361, and average 88.701 
+ small1.txt solved with simulated annealing more iterations has the cost of min 82.141, max 94.66, and average 86.875 
+ small2.txt solved with simulated annealing more iterations has the cost of min 84.925, max 94.331, and average 88.854 
+ small3.txt solved with simulated annealing more iterations has the cost of min 84.384, max 89.977, and average 86.519 
+ small4.txt solved with simulated annealing more iterations has the cost of min 77.809, max 88.243, and average 81.286 
+ small5.txt solved with simulated annealing more iterations has the cost of min 82.509, max 89.91, and average 85.479 
+ small6.txt solved with simulated annealing more iterations has the cost of min 81.21, max 96.074, and average 86.19 
+ small7.txt solved with simulated annealing more iterations has the cost of min 75.946, max 91.019, and average 80.942 
+ small8.txt solved with simulated annealing more iterations has the cost of min 83.455, max 86.655, and average 85.4 
+ small9.txt solved with simulated annealing more iterations has the cost of min 86.049, max 101.662, and average 92.338 
+ 

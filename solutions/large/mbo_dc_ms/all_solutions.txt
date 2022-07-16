@@ -1,0 +1,11 @@
+large0.txt solved with mbo delayed calculation multiple step sharing twoopt has the cost of min 409.028, max 409.028, and average 409.028 
+ large1.txt solved with mbo delayed calculation multiple step sharing twoopt has the cost of min 441.248, max 441.248, and average 441.248 
+ large2.txt solved with mbo delayed calculation multiple step sharing twoopt has the cost of min 441.002, max 441.002, and average 441.002 
+ large3.txt solved with mbo delayed calculation multiple step sharing twoopt has the cost of min 437.567, max 437.567, and average 437.567 
+ large4.txt solved with mbo delayed calculation multiple step sharing twoopt has the cost of min 446.449, max 446.449, and average 446.449 
+ large5.txt solved with mbo delayed calculation multiple step sharing twoopt has the cost of min 420.157, max 420.157, and average 420.157 
+ large6.txt solved with mbo delayed calculation multiple step sharing twoopt has the cost of min 436.418, max 436.418, and average 436.418 
+ large7.txt solved with mbo delayed calculation multiple step sharing twoopt has the cost of min 428.417, max 428.417, and average 428.417 
+ large8.txt solved with mbo delayed calculation multiple step sharing twoopt has the cost of min 426.23, max 426.23, and average 426.23 
+ large9.txt solved with mbo delayed calculation multiple step sharing twoopt has the cost of min 433.79, max 433.79, and average 433.79 
+ 

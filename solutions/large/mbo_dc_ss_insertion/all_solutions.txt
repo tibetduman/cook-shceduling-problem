@@ -1,0 +1,11 @@
+large0.txt solved with mbo delayed calculation single step sharing insertion has the cost of min 371.581, max 371.581, and average 371.581 
+ large1.txt solved with mbo delayed calculation single step sharing insertion has the cost of min 371.596, max 371.596, and average 371.596 
+ large2.txt solved with mbo delayed calculation single step sharing insertion has the cost of min 375.342, max 375.342, and average 375.342 
+ large3.txt solved with mbo delayed calculation single step sharing insertion has the cost of min 366.98, max 366.98, and average 366.98 
+ large4.txt solved with mbo delayed calculation single step sharing insertion has the cost of min 365.869, max 365.869, and average 365.869 
+ large5.txt solved with mbo delayed calculation single step sharing insertion has the cost of min 384.24, max 384.24, and average 384.24 
+ large6.txt solved with mbo delayed calculation single step sharing insertion has the cost of min 371.588, max 371.588, and average 371.588 
+ large7.txt solved with mbo delayed calculation single step sharing insertion has the cost of min 367.462, max 367.462, and average 367.462 
+ large8.txt solved with mbo delayed calculation single step sharing insertion has the cost of min 367.784, max 367.784, and average 367.784 
+ large9.txt solved with mbo delayed calculation single step sharing insertion has the cost of min 370.449, max 370.449, and average 370.449 
+ 

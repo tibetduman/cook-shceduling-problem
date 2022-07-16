@@ -1,0 +1,11 @@
+large0.txt solved with mbo delayed calculation multiple step sharing mixed has the cost of min 370.997, max 370.997, and average 370.997 
+ large1.txt solved with mbo delayed calculation multiple step sharing mixed has the cost of min 380.019, max 380.019, and average 380.019 
+ large2.txt solved with mbo delayed calculation multiple step sharing mixed has the cost of min 383.494, max 383.494, and average 383.494 
+ large3.txt solved with mbo delayed calculation multiple step sharing mixed has the cost of min 371.612, max 371.612, and average 371.612 
+ large4.txt solved with mbo delayed calculation multiple step sharing mixed has the cost of min 376.693, max 376.693, and average 376.693 
+ large5.txt solved with mbo delayed calculation multiple step sharing mixed has the cost of min 382.677, max 382.677, and average 382.677 
+ large6.txt solved with mbo delayed calculation multiple step sharing mixed has the cost of min 379.719, max 379.719, and average 379.719 
+ large7.txt solved with mbo delayed calculation multiple step sharing mixed has the cost of min 392.98, max 392.98, and average 392.98 
+ large8.txt solved with mbo delayed calculation multiple step sharing mixed has the cost of min 389.466, max 389.466, and average 389.466 
+ large9.txt solved with mbo delayed calculation multiple step sharing mixed has the cost of min 388.657, max 388.657, and average 388.657 
+ 

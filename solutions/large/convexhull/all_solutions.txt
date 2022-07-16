@@ -1,0 +1,10 @@
+large0.txt solved with convexhull has the cost: 412.91277433588493
+large1.txt solved with convexhull has the cost: 388.12343326928095
+large2.txt solved with convexhull has the cost: 396.62205993456826
+large3.txt solved with convexhull has the cost: 386.61605386299397
+large4.txt solved with convexhull has the cost: 392.7173587839487
+large5.txt solved with convexhull has the cost: 404.87239141704623
+large6.txt solved with convexhull has the cost: 397.0300656835739
+large7.txt solved with convexhull has the cost: 386.3583025902613
+large8.txt solved with convexhull has the cost: 395.2322564030381
+large9.txt solved with convexhull has the cost: 393.7882819345969

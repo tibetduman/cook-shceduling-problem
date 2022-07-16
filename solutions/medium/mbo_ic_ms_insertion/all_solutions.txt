@@ -1,0 +1,11 @@
+medium0.txt solved with mbo immediate calculation single multiple sharing insertion has the cost of min 196.634, max 207.918, and average 203.476 
+ medium1.txt solved with mbo immediate calculation single multiple sharing insertion has the cost of min 199.036, max 204.991, and average 202.493 
+ medium2.txt solved with mbo immediate calculation single multiple sharing insertion has the cost of min 195.805, max 199.685, and average 198.276 
+ medium3.txt solved with mbo immediate calculation single multiple sharing insertion has the cost of min 201.48, max 204.537, and average 202.977 
+ medium4.txt solved with mbo immediate calculation single multiple sharing insertion has the cost of min 199.999, max 212.582, and average 206.699 
+ medium5.txt solved with mbo immediate calculation single multiple sharing insertion has the cost of min 191.151, max 202.777, and average 195.056 
+ medium6.txt solved with mbo immediate calculation single multiple sharing insertion has the cost of min 214.219, max 216.409, and average 214.954 
+ medium7.txt solved with mbo immediate calculation single multiple sharing insertion has the cost of min 194.238, max 203.969, and average 200.213 
+ medium8.txt solved with mbo immediate calculation single multiple sharing insertion has the cost of min 197.519, max 203.159, and average 199.419 
+ medium9.txt solved with mbo immediate calculation single multiple sharing insertion has the cost of min 187.682, max 208.342, and average 200.199 
+ 

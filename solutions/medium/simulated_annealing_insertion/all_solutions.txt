@@ -1,0 +1,11 @@
+medium0.txt solved with simulated annealing insertion has the cost of min 194.753, max 201.336, and average 196.531 
+ medium1.txt solved with simulated annealing insertion has the cost of min 196.956, max 205.088, and average 201.2946 
+ medium2.txt solved with simulated annealing insertion has the cost of min 192.536, max 197.28, and average 194.603 
+ medium3.txt solved with simulated annealing insertion has the cost of min 192.903, max 204.94, and average 199.3882 
+ medium4.txt solved with simulated annealing insertion has the cost of min 195.528, max 206.48, and average 200.1518 
+ medium5.txt solved with simulated annealing insertion has the cost of min 187.273, max 189.944, and average 189.0488 
+ medium6.txt solved with simulated annealing insertion has the cost of min 209.179, max 216.499, and average 213.00879999999998 
+ medium7.txt solved with simulated annealing insertion has the cost of min 193.29, max 196.129, and average 194.6026 
+ medium8.txt solved with simulated annealing insertion has the cost of min 191.594, max 201.605, and average 198.35739999999998 
+ medium9.txt solved with simulated annealing insertion has the cost of min 192.179, max 200.715, and average 196.28659999999996 
+ 

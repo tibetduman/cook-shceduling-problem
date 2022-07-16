@@ -1,0 +1,11 @@
+small0.txt solved with simulated annealing has the cost of min 83.45004307244159, max 102.23850466138838, and average 88.62057294758023 
+ small1.txt solved with simulated annealing has the cost of min 80.08331971256901, max 94.0979520138477, and average 85.47612680994538 
+ small2.txt solved with simulated annealing has the cost of min 81.25737257700038, max 95.73080573071717, and average 89.90400653600989 
+ small3.txt solved with simulated annealing has the cost of min 84.29356648458574, max 92.41361117689141, and average 87.35380904752293 
+ small4.txt solved with simulated annealing has the cost of min 78.59305990021107, max 94.46294714857106, and average 82.55061079987956 
+ small5.txt solved with simulated annealing has the cost of min 82.37041262420507, max 103.81295482261835, and average 86.24979104377667 
+ small6.txt solved with simulated annealing has the cost of min 80.65277126330528, max 93.23021544555765, and average 85.09873250911218 
+ small7.txt solved with simulated annealing has the cost of min 76.44975569282191, max 89.13318122930336, and average 83.83569720778726 
+ small8.txt solved with simulated annealing has the cost of min 82.5456755753292, max 93.2251698630333, and average 86.25113344045397 
+ small9.txt solved with simulated annealing has the cost of min 87.93123466657148, max 102.13891921273967, and average 90.15478257009947 
+ 

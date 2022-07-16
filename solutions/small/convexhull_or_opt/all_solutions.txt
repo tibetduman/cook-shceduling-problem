@@ -1,0 +1,10 @@
+small0.txt solved with convexhull&OROPT has the cost: 91.60597083471549
+small1.txt solved with convexhull&OROPT has the cost: 83.92562096245504
+small2.txt solved with convexhull&OROPT has the cost: 98.82154242805595
+small3.txt solved with convexhull&OROPT has the cost: 92.69066749619006
+small4.txt solved with convexhull&OROPT has the cost: 89.89879095861816
+small5.txt solved with convexhull&OROPT has the cost: 87.57288331974388
+small6.txt solved with convexhull&OROPT has the cost: 95.34941896044874
+small7.txt solved with convexhull&OROPT has the cost: 89.90229658515182
+small8.txt solved with convexhull&OROPT has the cost: 86.82213510041481
+small9.txt solved with convexhull&OROPT has the cost: 89.76635715267189

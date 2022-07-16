@@ -1,0 +1,11 @@
+medium0.txt solved with mbo delayed calculation single step sharing two opt has the cost of min 213.145, max 221.756, and average 216.304 
+ medium1.txt solved with mbo delayed calculation single step sharing two opt has the cost of min 210.469, max 222.512, and average 215.36 
+ medium2.txt solved with mbo delayed calculation single step sharing two opt has the cost of min 208.913, max 214.321, and average 211.796 
+ medium3.txt solved with mbo delayed calculation single step sharing two opt has the cost of min 207.787, max 222.167, and average 214.47 
+ medium4.txt solved with mbo delayed calculation single step sharing two opt has the cost of min 210.672, max 223.595, and average 218.594 
+ medium5.txt solved with mbo delayed calculation single step sharing two opt has the cost of min 200.653, max 207.808, and average 205.153 
+ medium6.txt solved with mbo delayed calculation single step sharing two opt has the cost of min 223.311, max 226.739, and average 224.821 
+ medium7.txt solved with mbo delayed calculation single step sharing two opt has the cost of min 196.959, max 211.609, and average 204.158 
+ medium8.txt solved with mbo delayed calculation single step sharing two opt has the cost of min 211.513, max 224.199, and average 219.522 
+ medium9.txt solved with mbo delayed calculation single step sharing two opt has the cost of min 204.77, max 212.925, and average 209.993 
+ 

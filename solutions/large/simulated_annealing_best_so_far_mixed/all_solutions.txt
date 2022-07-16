@@ -1,0 +1,12 @@
+
+ large0.txt solved with simulated annealing best so far mixed has the cost of min 379.563, max 379.563, and average 379.563 
+ large1.txt solved with simulated annealing best so far mixed has the cost of min 386.7, max 386.7, and average 386.7 
+ large2.txt solved with simulated annealing best so far mixed has the cost of min 405.887, max 405.887, and average 405.887 
+ large3.txt solved with simulated annealing best so far mixed has the cost of min 405.592, max 405.592, and average 405.592 
+ large4.txt solved with simulated annealing best so far mixed has the cost of min 365.314, max 365.314, and average 365.314 
+ large5.txt solved with simulated annealing best so far mixed has the cost of min 415.606, max 415.606, and average 415.606 
+ large6.txt solved with simulated annealing best so far mixed has the cost of min 385.239, max 385.239, and average 385.239 
+ large7.txt solved with simulated annealing best so far mixed has the cost of min 396.406, max 396.406, and average 396.406 
+ large8.txt solved with simulated annealing best so far mixed has the cost of min 396.168, max 396.168, and average 396.168 
+ large9.txt solved with simulated annealing best so far mixed has the cost of min 389.087, max 389.087, and average 389.087 
+ 

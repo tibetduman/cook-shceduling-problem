@@ -1,0 +1,10 @@
+medium0.txt solved with nearest neighbor has the cost: 248.8845206028691
+medium1.txt solved with nearest neighbor has the cost: 246.84730404348892
+medium2.txt solved with nearest neighbor has the cost: 234.4969692355761
+medium3.txt solved with nearest neighbor has the cost: 241.03743138558931
+medium4.txt solved with nearest neighbor has the cost: 237.05337394632306
+medium5.txt solved with nearest neighbor has the cost: 213.28291474976908
+medium6.txt solved with nearest neighbor has the cost: 259.07646207585077
+medium7.txt solved with nearest neighbor has the cost: 220.55988200852357
+medium8.txt solved with nearest neighbor has the cost: 234.94693535611265
+medium9.txt solved with nearest neighbor has the cost: 224.3566962148213

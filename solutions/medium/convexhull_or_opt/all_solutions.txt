@@ -1,0 +1,10 @@
+medium0.txt solved with convexhull&OROPT has the cost: 204.2810004688885
+medium1.txt solved with convexhull&OROPT has the cost: 222.61059052632578
+medium2.txt solved with convexhull&OROPT has the cost: 216.71247373376542
+medium3.txt solved with convexhull&OROPT has the cost: 197.90462263120878
+medium4.txt solved with convexhull&OROPT has the cost: 217.94160326115346
+medium5.txt solved with convexhull&OROPT has the cost: 216.12456701658152
+medium6.txt solved with convexhull&OROPT has the cost: 230.51777954282647
+medium7.txt solved with convexhull&OROPT has the cost: 198.37005581159272
+medium8.txt solved with convexhull&OROPT has the cost: 214.0234925165697
+medium9.txt solved with convexhull&OROPT has the cost: 228.97282723394852

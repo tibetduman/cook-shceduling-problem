@@ -1,0 +1,10 @@
+medium0.txt solved with convexhull has the cost: 204.94606643636672
+medium1.txt solved with convexhull has the cost: 225.2374321578172
+medium2.txt solved with convexhull has the cost: 221.71027398123724
+medium3.txt solved with convexhull has the cost: 199.22018783046832
+medium4.txt solved with convexhull has the cost: 218.56079501581937
+medium5.txt solved with convexhull has the cost: 220.19336010298647
+medium6.txt solved with convexhull has the cost: 232.75789215104476
+medium7.txt solved with convexhull has the cost: 201.4044986111813
+medium8.txt solved with convexhull has the cost: 221.3758404668748
+medium9.txt solved with convexhull has the cost: 232.04403222205616

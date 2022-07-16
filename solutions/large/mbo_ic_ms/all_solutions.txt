@@ -1,0 +1,11 @@
+large0.txt solved with mbo immediate calculation multiple step sharing has the cost of min 423.596, max 423.596, and average 423.596 
+ large1.txt solved with mbo immediate calculation multiple step sharing has the cost of min 436.156, max 436.156, and average 436.156 
+ large2.txt solved with mbo immediate calculation multiple step sharing has the cost of min 445.223, max 445.223, and average 445.223 
+ large3.txt solved with mbo immediate calculation multiple step sharing has the cost of min 441.412, max 441.412, and average 441.412 
+ large4.txt solved with mbo immediate calculation multiple step sharing has the cost of min 425.8, max 425.8, and average 425.8 
+ large5.txt solved with mbo immediate calculation multiple step sharing has the cost of min 432.799, max 432.799, and average 432.799 
+ large6.txt solved with mbo immediate calculation multiple step sharing has the cost of min 423.991, max 423.991, and average 423.991 
+ large7.txt solved with mbo immediate calculation multiple step sharing has the cost of min 451.62, max 451.62, and average 451.62 
+ large8.txt solved with mbo immediate calculation multiple step sharing has the cost of min 440.817, max 440.817, and average 440.817 
+ large9.txt solved with mbo immediate calculation multiple step sharing has the cost of min 427.615, max 427.615, and average 427.615 
+ 

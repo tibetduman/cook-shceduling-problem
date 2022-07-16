@@ -1,0 +1,11 @@
+medium0.txt solved with mbo delayed calculation single step sharing insert has the cost of min 193.977, max 197.164, and average 195.187 
+ medium1.txt solved with mbo delayed calculation single step sharing insert has the cost of min 198.184, max 202.271, and average 199.716 
+ medium2.txt solved with mbo delayed calculation single step sharing insert has the cost of min 193.935, max 197.642, and average 195.244 
+ medium3.txt solved with mbo delayed calculation single step sharing insert has the cost of min 191.59, max 193.89, and average 193.004 
+ medium4.txt solved with mbo delayed calculation single step sharing insert has the cost of min 193.962, max 205.52, and average 198.404 
+ medium5.txt solved with mbo delayed calculation single step sharing insert has the cost of min 187.507, max 190.614, and average 188.971 
+ medium6.txt solved with mbo delayed calculation single step sharing insert has the cost of min 206.319, max 210.548, and average 208.655 
+ medium7.txt solved with mbo delayed calculation single step sharing insert has the cost of min 192.215, max 195.327, and average 194.238 
+ medium8.txt solved with mbo delayed calculation single step sharing insert has the cost of min 191.594, max 196.74, and average 194.646 
+ medium9.txt solved with mbo delayed calculation single step sharing insert has the cost of min 187.711, max 191.705, and average 190.369 
+ 
